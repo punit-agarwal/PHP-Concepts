@@ -14,4 +14,6 @@
 
 * Now open fbconfig.php file and add you app ID and app Secrete.
 
+* 'User.PHP' is used to save the deatils of users in a database.
+
 * It will produce the result.
