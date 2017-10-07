@@ -2,7 +2,7 @@
 
 ---
 
-* Need to go https://developers.facebook.com/apps/ and click on add a new group button to make the app ID.
+* Firstly, you need to go to https://developers.facebook.com/apps/ and click on add a new group button to make the app ID.
 
 * Choose Website
 
