@@ -7,6 +7,17 @@ Former knowledge of PHP is strongly recommended in order to understand the topic
 
 ---
 
-Login
+## 1. Login
+  + Login with Facebook
+      * This contains the process to create a `login with facebook` in one's website.
+  
+  + Track user's device
+  + Track user's location
+  + Track IP address of User
+  + Delete Existing Cookies
+  + Logout
+
+
+
 
 ---
