@@ -10,5 +10,5 @@ unset($_SESSION['username']);
 
 // Jump to login page
 header('Location: login.php');
-
+?>
 ?>

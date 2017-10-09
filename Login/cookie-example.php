@@ -10,4 +10,7 @@ echo "Cookie 'user' is deleted.";
 ?>
 
 </body>
+
 </html>
+
+
