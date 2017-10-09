@@ -11,4 +11,7 @@ $_SESSION['ip'] = $_SERVER['REMOTE_ADDR'];
   if($XML->City=="") { $loc = "Localhost / Unknown"; }
   else { $loc = $XML->City.", ".$XML->RegionName.", ".$XML->CountryName; }
   $_SESSION['loc'] = $loc;
+
 ?>
+?>
+
