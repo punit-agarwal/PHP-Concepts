@@ -12,7 +12,7 @@
 
 * Download Facebook SDK files from [here](https://github.com/facebook/php-graph-sdk).
 
-* Now open fbconfig.php file and add you app ID and app Secrete.
+* Now open fbconfig.php file and add you app ID and app secret.
 
 * `User.PHP` is used to save the deatils of users in a database.
 
