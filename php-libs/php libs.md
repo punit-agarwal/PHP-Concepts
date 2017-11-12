@@ -1,2 +1,3 @@
-#PHP libraries
+## PHP libraries
 * [PHP libraries](https://www.gitbook.com/book/voku/arrayy/details) - A PHP array manipulation library. Compatible with PHP 5.3+, PHP 7, and HHVM.
+* [PHP Collections](https://github.com/aaronds/php-collections) - A simple chainable wrapper around common array functions, map, filter, reduce etc...
