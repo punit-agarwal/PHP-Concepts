@@ -1,1 +1,3 @@
-### This is an example that can show which device is the user logged from.
+# library for detecting devices using PHP
+
+[Mobile Detect](http://mobiledetect.net/) - The lightweight PHP class for detecting mobile devices (including tablets)
